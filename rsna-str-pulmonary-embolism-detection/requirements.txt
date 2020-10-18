@@ -1,0 +1,2 @@
+matplotlib==2.2.5
+pydicom==1.4.2
